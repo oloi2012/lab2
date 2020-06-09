@@ -1,0 +1,8 @@
+﻿body {
+  font-family: Comic Sans MS, Comic Sans, cursive; /* Семейство шрифтов */
+  font-size: 12pt; /* Размер основного шрифта в пунктах  */
+  background: radial-gradient(80% 80%,Aquamarine,  Plum);
+  color: 333; /* Цвет основного текста */ 
+ 
+}
+ li a {text-decoration: none;}	

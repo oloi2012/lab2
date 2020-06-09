@@ -1,0 +1,23 @@
+.image {
+
+ position: relative;
+  border: 20px solid #d6d1d1;
+  margin: 3%;
+  overflow: hidden;
+  width: 300x;
+  height:300px;
+  cursor: pointer;
+	border-radius: 3px;	
+ }
+.image img {
+   max-width: 100%;
+  -moz-transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+ }
+ 
+.image img:hover{
+   -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+ }
